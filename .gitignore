@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+mlruns/
+chroma_db/
+data/
+*.zip
+node_modules/
